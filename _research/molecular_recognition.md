@@ -6,7 +6,7 @@ layout: basic
 title: Molecular Recognition
 ---
 
-![Image alt]({{site.url}}/research/molecular_recognition.png "molecular recognition"){:.feature_image}
+![Image alt](/research/molecular_recognition.png "molecular recognition"){:.feature_image}
 ## Molecular recognition is the selective interaction of two or more molecules, involving only non-covalent bonds.
 <!--end excerpt-->
 
