@@ -1,0 +1,19 @@
+---
+---
+@import "{{ site.theme }}";
+
+.feature_image {
+    float: left;
+    max-width: 250px;
+    padding: 5px;
+}
+
+.excerpt::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.except::h2 {
+
+}

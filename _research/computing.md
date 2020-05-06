@@ -6,9 +6,9 @@ layout: basic
 title: Computing
 ---
 
-![Image alt]({{site.url}}/research/HPC.png "computing"){: style="float: left"}
+![Image alt]({{site.url}}/research/HPC.png "computing"){:.feature_image}
 
-## Computational work in the Luchko Lab requires the use of high performance hardware and software.
+## Computational work in our group requires the use of high performance hardware and software.
 
 <!--end excerpt-->
 Our main computational tool is [3D-RISM]({{site.url}}/research/theory/), which is distributed with the [AmberTools](http://ambermd.org/) molecular modeling suite and is capable of running on large computational clusters across multiple nodes. Calculations run on our local cluster, as well as national resources, such as XSEDE. We continue to improve the performance of 3D-RISM by using numerical methods, such as treecode summation and multigrid solvers.

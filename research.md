@@ -9,12 +9,17 @@ title: Research
 <ul class="post-list">
   {%- for page in site.research -%}
   <li>
-	<h3>
+	<h2>
 	  <a class="post-link" href="{{ page.url | relative_url }}">
 		{{ page.title | escape }}
 	  </a>
-	</h3>
-	  {{ page.excerpt }}
+	</h2>
+	<div class="excerpt">
+    {{ page.excerpt }}
+	</div>
+	<!-- <p class="clearwrap"></p> -->
+	  
+
   </li>
   {%- endfor -%}
 </ul>
