@@ -4,6 +4,7 @@
 
 layout: basic
 title: Molecular Recognition
+permalink: /research/molecular_recognition
 ---
 
 ![Image alt](/research/molecular_recognition.png "molecular recognition"){:.feature_image}

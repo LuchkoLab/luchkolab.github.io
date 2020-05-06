@@ -4,6 +4,7 @@
 
 layout: basic
 title: Computing
+permalink: /research/computing
 ---
 
 ![Image alt](/research/HPC.png "computing"){:.feature_image}

@@ -4,6 +4,7 @@
 
 layout: basic
 title: Solvation Theory
+permalink: /research/theory
 ---
 
 ![Image alt](/research/theory.png "solvation theory"){:.feature_image}
