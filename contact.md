@@ -3,6 +3,8 @@ layout: default
 title: Contact
 ---
 
+<div class="inline" markdown="1">
+
 Office: 
 : LO 1124A/B
 	
@@ -11,6 +13,8 @@ Phone:
 	
 Email:
 : <{{site.email}}>
+
+</div>
 
 [Department of Physics & Astronomy](http://www.csun.edu/science-mathematics/physics-astronomy)  
 [College of Science & Mathematics](http://www.csun.edu/science-mathematics)  

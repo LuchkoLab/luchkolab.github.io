@@ -6,7 +6,9 @@ layout: basic
 title: People
 ---
 ## Principle Investigator
-### Tyler Luchko
+### [Tyler Luchko](biography.html)
+
+![img](/assets/images/TylerLuchkoACS-1024x682.jpg "Tyler Luchko"){:width="250px"}
 
 **Associate Professor** in the Department of Physics & Astronomy
 
@@ -18,4 +20,42 @@ Tsogbayar Tsednee - Postdoctoral Scholar
 : Liquid state theory.
 : 1D- and 3D-RISM development.
 
-Michael Barton - graduate studentAbsolute binding free energy calculations.Dylan Daw - graduate studentRoom temperature ionic liquids.Steven Ayoub - undergraduate studentConstant pH calculations.Tiannah York Van Elselande - undergraduate studentRelative binding free energy calculations.Former MembersLizet CasillasHydration free energy of small molecules.Sifath MannanConstant pH calculations.Garrett LimonNumerical methods and performance enhancements for 3D-RISM.Multipole description of solvation electrostatics.Kevin JoyceEnd-state binding free energy on large protein-ligand data sets.Patrick McMillinSupercooled water simulations.End-state host-guest binding free energy calculations.Jeffrey LillibridgeEnd state host-guest binding free energy calculations.Matthew AlegreteSupercooled water simulations.Jacob KleineEnd-state host-guest binding free energy calculations.
+Michael Barton - graduate student
+: Absolute binding free energy calculations.
+
+Dylan Daw - graduate student
+: Room temperature ionic liquids.
+
+Steven Ayoub - undergraduate student
+: Constant pH calculations.
+
+Tiannah York Van Elselande - undergraduate student
+: Relative binding free energy calculations.
+
+### Former Members
+
+Lizet Casillas
+: Hydration free energy of small molecules.
+
+Sifath Mannan
+: Constant pH calculations.
+
+Garrett Limon
+: Numerical methods and performance enhancements for 3D-RISM.
+: Multipole description of solvation electrostatics.
+
+Kevin Joyce
+: End-state binding free energy on large protein-ligand data sets.
+
+Patrick McMillin
+: Supercooled water simulations.
+: End-state host-guest binding free energy calculations.
+
+Jeffrey Lillibridge
+: End state host-guest binding free energy calculations.
+
+Matthew Alegrete
+: Supercooled water simulations.
+
+Jacob Kleine
+: End-state host-guest binding free energy calculations.

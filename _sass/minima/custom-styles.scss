@@ -39,6 +39,11 @@ dt:before {
   display: block;
 }
 dt {font-weight: bold}
-dt, dd { display: inline }
-// dt { clear:both }
+
+.inline {
+    dt, dd {
+	display: inline;
+    }
+}
+
 
