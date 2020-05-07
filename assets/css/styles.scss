@@ -21,5 +21,10 @@
     font-size: medium;
 }
 
-.excerpt::h2 {
+dt:before {
+  content: "";
+  display: block;
 }
+dt {font-weight: bold}
+dt, dd { display: inline }
+// dt { clear:both }
