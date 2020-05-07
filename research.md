@@ -7,7 +7,8 @@ title: Research
 ---
 
 <ul class="post-list">
-  {%- for page in site.research -%}
+  {% assign research_pages = site.research | sort: 'navigation_weight' %}
+  {%- for page in research_pages -%}
   <li>
 	<h2>
 	  <a class="post-link" href="{{ page.url | relative_url }}">

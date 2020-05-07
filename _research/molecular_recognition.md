@@ -5,6 +5,7 @@
 layout: basic
 title: Molecular Recognition
 permalink: /research/molecular_recognition
+navigation_weight: 10
 ---
 
 ![Image alt](/research/molecular_recognition.png "molecular recognition"){:.feature_image}

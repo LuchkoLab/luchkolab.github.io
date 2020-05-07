@@ -32,6 +32,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - research.md
+  - contact.md
+
 # groups of pages that can be iterated through.  These pages are group
 # in `_groupname` directories.
 collections:
@@ -41,6 +45,7 @@ collections:
 
 # pages can customize where the excerpt ends
 excerpt_separator: <!--end excerpt-->
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -5,6 +5,7 @@
 layout: basic
 title: Solvation Theory
 permalink: /research/theory
+navigation_weight: 20
 ---
 
 ![Image alt](/research/theory.png "solvation theory"){:.feature_image}

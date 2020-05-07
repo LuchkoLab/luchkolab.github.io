@@ -5,6 +5,7 @@
 layout: basic
 title: Computing
 permalink: /research/computing
+navigation_weight: 30
 ---
 
 ![Image alt](/research/HPC.png "computing"){:.feature_image}

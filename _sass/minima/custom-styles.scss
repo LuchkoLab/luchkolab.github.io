@@ -1,7 +1,20 @@
----
----
-@import "{{ site.theme }}";
-@import "main";
+// @import "{{ site.theme }}";
+// @import "main";
+
+/* Create a macro for headings so they can all be changed at once
+   https://stackoverflow.com/a/21622588
+*/
+@mixin headings {
+    h1, h2, h3,
+    h4, h5, h6 {
+        @content;
+    }
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    @extend %headings !optional;
+}
 
 .feature_image {
     float: left;
@@ -28,3 +41,4 @@ dt:before {
 dt {font-weight: bold}
 dt, dd { display: inline }
 // dt { clear:both }
+
