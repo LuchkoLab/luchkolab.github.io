@@ -34,7 +34,9 @@ plugins:
 
 header_pages:
   - research.md
+  - people.md
   - contact.md
+  - openings.md
 
 # groups of pages that can be iterated through.  These pages are group
 # in `_groupname` directories.
