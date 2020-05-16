@@ -6,7 +6,7 @@ layout: default
 title: Tyler Luchko
 ---
 
-Full CV.
+[Full CV](/cv.pdf).
 
 ## Current Position
 
@@ -15,9 +15,7 @@ Associate Professor in the Department of Physics & Astronomy at California State
 ## Education
 
 2008 Ph.D., Department of Physics, University of Alberta, Canada.
-: National Institute for Nanotechnology, National Research Council, Canada.
 : Advisors: Dr. Jack Tuszynski and Dr. Andriy Kovalenko
-: Thesis: Molecular modeling of protein-protein/protein solvent interactions, focusing on microtubules and statistical mechanical molecular solvation theory.
 
 2000 B.Sc. Specialization Physics. University of Alberta, Canada.
 : 
@@ -27,30 +25,25 @@ Associate Professor in the Department of Physics & Astronomy at California State
 
 Postdoctoral Associate 
 : BioMaPS Institute, Rutgers University, USA.
-: Molecular modeling and integral equation solvation theory.
 : Advisor: Dr. David A. Case
 
 Postdoctoral Fellow 
-: Department of Mechanical Engineering, University of Alberta
-: Canada National Institute for Nanotechnology, National Research Council, Canada. 
-: Integral Equation Theory of Biomolecules and Electrolytes.
+: Department of Mechanical Engineering, University of Alberta, Canada
+: National Institute for Nanotechnology, National Research Council, Canada. 
 : Advisor: Dr. Andriy Kovalenko
 
 Postdoctoral Fellow
 : Department of Oncology, University of Alberta, Canada
-: Molecular modeling of microtubule stability. 
 : Advisor: Dr. Jack Tuszynski
 
 Industrial Internship
 : Mathematics of Information Technology and Complex Systems (MITACS)
 : National Institute for Nanotechnology, Canada
-: Molecular modeling of protein-ligand interactions of corticotropin release hormone (CRH) receptor system.
 : Supervisor: Dr. Andriy Kovalenko
 
 Research Assistant
 : Natural Science and Engineering Research Council of Canada Undergraduate Summer Research Assistant
 : Department of Physics, Simon Fraser University, Canada
-: Nuclear magnetic resonance study of artificial cell membrane phase transitions.
 : Supervisor: Dr. Jenifer Thewalt
 
 ## Teaching
@@ -72,6 +65,7 @@ PHYS 431 Thermodynamics and Statistical Mechanics
 
 ## Refereed Publications
 
+{% include_relative refereed_publications.html %}
 
 ## Funding
 
