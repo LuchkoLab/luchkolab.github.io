@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Molecular modeling in our lab
 ---
-
-# Molecular modeling in our lab
 
 Our interests are in physical basis of molecular recognition and its role in the function of biomolecules.
 
