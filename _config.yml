@@ -28,7 +28,7 @@ twitter_username: tylerluchko
 github_username:  tluchko
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
