@@ -63,13 +63,15 @@ PHYS 490 Computer Applications in Physics
 PHYS 431 Thermodynamics and Statistical Mechanics
 : Upper division thermodynamics and statistical mechanics of weakly interacting classical and quantum systems.
 
-## Refereed Publications
-
-{% include_relative refereed_publications.html %}
-
 ## Funding
 
 ### Current Funding
+
+Principle Investigator, National Science Foundation Grant #2102668
+
+Research Corporation for Science Advancement Cottrell Collaborative Award 
+
+### Past Funding
 
 Extreme Science and Engineering Discovery Environment (XSEDE) Research Allocation TG-MCB190048
 
@@ -77,7 +79,9 @@ Research Corporation for Science Advancement Cottrell Scholar Award #23967
 
 Principle Investigator, National Science Foundation Grant #1566638
 
-### Past Funding
-
 California State University Program for Education and Research in Biotechnology (CSUPERB) New Investigator Grant
+
+## Refereed Publications
+
+{% include_relative refereed_publications.html %}
 
