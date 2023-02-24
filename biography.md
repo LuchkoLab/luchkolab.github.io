@@ -67,9 +67,11 @@ PHYS 431 Thermodynamics and Statistical Mechanics
 
 ### Current Funding
 
-Principle Investigator, National Science Foundation Grant #2102668
+PI, National Science Foundation Grant #2102668
 
-Research Corporation for Science Advancement Cottrell Collaborative Award 
+Co-PI, Research Corporation for Science Advancement Cottrell Collaborative Award 
+
+Sponsor, Research Corporation for Science Advancement Cottrell Postbac Award
 
 ### Past Funding
 
