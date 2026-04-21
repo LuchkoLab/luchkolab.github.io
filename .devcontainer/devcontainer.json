@@ -1,0 +1,34 @@
+{
+  "name": "Luchko Lab Jekyll",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "forwardPorts": [4000, 35729],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll Preview",
+      "onAutoForward": "openPreview"
+    },
+    "35729": {
+      "label": "Jekyll LiveReload",
+      "onAutoForward": "silent"
+    }
+  },
+  "postCreateCommand": "bundle config set path vendor/bundle && bundle install",
+  "postStartCommand": "bundle check || bundle install",
+  "remoteUser": "vscode",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rebornix.Ruby",
+        "streetsidesoftware.code-spell-checker"
+      ]
+    },
+    "codespaces": {
+      "openFiles": [
+        "DEVELOPMENT.md"
+      ]
+    }
+  }
+}
